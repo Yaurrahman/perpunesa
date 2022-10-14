@@ -1,0 +1,30 @@
+body{
+    background: #E5E5E5;
+}
+
+.icon-nav{
+    font-size: 1.3rem;
+}
+
+.btn-custom{
+    background: #996433;
+    color: #fff;
+}
+
+.navbar-custom{
+    background: #ACDBDF;
+}
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgb(255, 255, 255);
+    border: solid rgba(255, 255, 255);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+  
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+  
